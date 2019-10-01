@@ -42,6 +42,8 @@ public class MatchAdapter extends RecyclerView.Adapter<MatchAdapter.MatchViewHol
 
         Picasso.get().load(data.get(i).getStrThumb()).into(matchViewHolder.imgHome);
     }
+    
+//     ncuein qwx whs hallo bdeiuq dcen  saya swudb q
 
     @Override
     public int getItemCount() {
